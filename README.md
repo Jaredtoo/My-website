@@ -1,7 +1,7 @@
 ##
 Jared Too
 ##
-This website describes my personnal details. @ 2022.
+This website describes my personnal details.
 ### Live Site
 View [live](https://jaredtoo.github.io/My-website/)
 ## Technologies Used
